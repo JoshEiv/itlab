@@ -1,6 +1,6 @@
 ﻿namespace DownloadManager
 {
-    partial class Form1
+    partial class DownloadManager
     {
         /// <summary>
         ///  Required designer variable.
@@ -138,7 +138,7 @@
             progressBar.TabIndex = 8;
             progressBar.Click += progressBar_Click;
             // 
-            // Form1
+            // DownloadManager
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -147,8 +147,9 @@
             Controls.Add(groupBox1);
             Controls.Add(btnCancel);
             Controls.Add(btnDownload);
-            Name = "Form1";
-            Text = "Form1";
+            Name = "DownloadManager";
+            Text = "DownloadManager";
+            Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             ResumeLayout(false);

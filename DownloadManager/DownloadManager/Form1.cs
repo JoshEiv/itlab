@@ -1,11 +1,11 @@
 namespace DownloadManager
 {
-    public partial class Form1 : Form
+    public partial class DownloadManager : Form
     {
         private const int ProgressIncrement = 10;
         private int maxProgressValue = 0;
         private int currentProgressValue = 0;
-        public Form1()
+        public DownloadManager()
         {
             InitializeComponent();
         }
@@ -58,6 +58,11 @@ namespace DownloadManager
             {
                 checkBox.Checked = false;
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

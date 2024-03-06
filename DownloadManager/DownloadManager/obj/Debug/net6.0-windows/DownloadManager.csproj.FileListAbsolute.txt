@@ -1,4 +1,3 @@
-C:\Users\ITLAB2-PC30\source\repos\DownloadManager\DownloadManager\obj\Debug\net6.0-windows\DownloadManager.Form1.resources
 C:\Users\ITLAB2-PC30\source\repos\DownloadManager\DownloadManager\obj\Debug\net6.0-windows\DownloadManager.csproj.GenerateResource.cache
 C:\Users\ITLAB2-PC30\source\repos\DownloadManager\DownloadManager\obj\Debug\net6.0-windows\DownloadManager.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ITLAB2-PC30\source\repos\DownloadManager\DownloadManager\obj\Debug\net6.0-windows\DownloadManager.AssemblyInfoInputs.cache
@@ -14,3 +13,4 @@ C:\Users\ITLAB2-PC30\source\repos\DownloadManager\DownloadManager\obj\Debug\net6
 C:\Users\ITLAB2-PC30\source\repos\DownloadManager\DownloadManager\obj\Debug\net6.0-windows\DownloadManager.pdb
 C:\Users\ITLAB2-PC30\source\repos\DownloadManager\DownloadManager\obj\Debug\net6.0-windows\DownloadManager.genruntimeconfig.cache
 C:\Users\ITLAB2-PC30\source\repos\DownloadManager\DownloadManager\obj\Debug\net6.0-windows\ref\DownloadManager.dll
+C:\Users\ITLAB2-PC30\source\repos\DownloadManager\DownloadManager\obj\Debug\net6.0-windows\DownloadManager.DownloadManager.resources
